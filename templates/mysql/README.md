@@ -1,6 +1,4 @@
 # Mysql
 
 
-# mysql -p TESTE
-# 12qwaszx
-
+Template do mysql

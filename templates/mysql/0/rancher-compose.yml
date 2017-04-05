@@ -1,8 +1,8 @@
 .catalog:
   name: "MYSQL"
   version: "v1"
-  description: "My MYSQL Application Catalog"
-  questions: 
+  description: "Meu mysql aplicação do catlogo"
+  questions:
     - variable: "MYSQL_ROOT_PASSWORD"
       label: "Mysql root password"
       description: "Password for the mysql root user"
